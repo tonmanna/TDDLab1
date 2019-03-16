@@ -1,0 +1,40 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn add --dev jest
+
+PATH: 
+  /Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/usr/local/git/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Users/tonman-pc/.rvm/bin
+
+Yarn version: 
+  1.0.0
+
+Node version: 
+  11.0.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "tddlab1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest",
+      "start": "nodemon ./romanNumber/romanNumber.js"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: http://172.16.1.252:4873/jest: ETIMEDOUT
+      at Timeout._onTimeout (/usr/local/lib/node_modules/yarn/lib/cli.js:117940:19)
+      at listOnTimeout (timers.js:324:15)
+      at processTimers (timers.js:268:5)
