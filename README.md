@@ -6,7 +6,7 @@ Video Conference in Real Life
 #Kata Programming 
   - Every Day -> 
   - Solve simple problem.
-  - checkio.org
+  - http://checkio.org
   - ตั้งเงื่อนไขความยาก ในการใช้งาน
   - Roman Number
   - Code have correct 90 % is not helping you to understand the code
