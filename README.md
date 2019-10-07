@@ -23,8 +23,8 @@ Video Conference in Real Life
     Test  = What?  == Document have ability to execute.
 
 #During Development.
- - When you write code is Engineer ( Fast as you can)
- - When you refactor -> is Artis  ( Name variable / Performance )
+ - When you write code -> Your are the Engineer ( Fast as you can)
+ - When you refactor -> try to change your mind used Artis skill  ( Name variable / Performance )
 
 #Test Type
  - Integration Test. You must be serious about Job. It's take long time.But it make your confidence.
